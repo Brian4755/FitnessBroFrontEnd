@@ -1,0 +1,14 @@
+nav {
+  padding: 0px 5px 0px 5px;
+  background-color:rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.brand{
+  font-family: Stencil Std, fantasy;
+  color: #b56576;
+}
+
+span {
+  color: #b56576;
+}
